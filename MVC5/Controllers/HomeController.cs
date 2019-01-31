@@ -10,7 +10,7 @@ namespace MVC5.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View("NgApp");
         }
 
         public ActionResult About()
