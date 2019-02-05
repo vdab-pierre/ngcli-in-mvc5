@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'awesome angular Cli app';
+  title = 'my awesome angular Cli app, built from within vsstudio';
 }
